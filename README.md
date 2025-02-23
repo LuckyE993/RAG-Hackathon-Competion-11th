@@ -13,8 +13,8 @@
 1. **克隆仓库**  
    在终端中运行以下命令：
    ```bash
-   git clone <你的仓库 URL>
-   cd <仓库目录>
+   git clone https://github.com/LuckyE993/RAG-Hackathon-Competion-11th
+   cd RAG-Hackathon-Competion-11th
    ```
 
 2. **创建 Conda 环境**  
