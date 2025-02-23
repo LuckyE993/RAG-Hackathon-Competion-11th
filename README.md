@@ -1,5 +1,5 @@
-# RAG-Hackson-Competion-11th
-NVIDIA 第11届 Sky Hackathon大赛 芝士雪豹队代码
+# NVIDIA 第11届 Sky Hackathon大赛 芝士雪豹队代码仓库
+
 # 部署教程
 
 本文档说明如何部署并运行该项目。
